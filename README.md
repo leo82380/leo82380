@@ -1,5 +1,3 @@
-# 안녕하세요
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003399&height=200&section=header&text=이상규&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
 
 겜마고4기 이상규
