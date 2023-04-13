@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=003399&height=200&section=header&text=이상규&fontSize=50&animation=fadeIn&fontColor=DDDDDD)
 
-안녕하세요 겜마고4기 이상규입니다
+겜마고4기 이상규
 >중학교
 
 청일중학교
@@ -15,5 +15,7 @@
 python
 
 c
+
+C#
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
