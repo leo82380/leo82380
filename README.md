@@ -17,5 +17,4 @@ c
 
 C#
 
-dddddd
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leo82380&show_icons=true&theme=radical)
